@@ -8,5 +8,5 @@
   <b>aStar</b>.algorithm(lambda: draw(win, grid, ROWS, width), grid, start, end). change aStar to djikstra,bfs,or dfs. </p>
   
   <p align="center">
-  <img src="https://github.com/swoosh1337/Path-Finding-Visualization/blob/main/Screenshot%20from%202021-08-17%2021-04-10.png" width="350" title="Astar">
+  <img src="https://github.com/swoosh1337/Path-Finding-Visualization/blob/main/Screenshot%20from%202021-08-17%2021-04-10.png" width="600" title="Astar">
 </p>
